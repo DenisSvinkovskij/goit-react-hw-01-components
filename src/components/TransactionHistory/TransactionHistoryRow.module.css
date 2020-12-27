@@ -1,0 +1,12 @@
+.row {
+  color: #a7aaab;
+}
+.data {
+  padding: 15px;
+}
+.row:nth-child(2n + 1) {
+  background-color: #fff;
+}
+.row:nth-child(2n) {
+  background-color: #ecf1f4;
+}
